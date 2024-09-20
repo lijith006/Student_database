@@ -1,0 +1,6 @@
+package com.example.databasemarch
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
